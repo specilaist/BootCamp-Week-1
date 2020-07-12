@@ -8,3 +8,4 @@ Some class activities and homework
 
 2) Reduce the amount of classes:
       -- refacted .benefit subgroup to benefit-groups, h3 and img to have the same margins and color for all benefit-groups items
+      -- refacted .content subgroup to content-groups, h2 and img to have the same margins and color for all content-group items
