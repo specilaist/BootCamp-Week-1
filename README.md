@@ -1,6 +1,18 @@
 # BootCamp-Week-1
 Some class activities and homework
 
+## Screenshot of Website
+
+![Eban Refactor](./assets/scrnshot_1.png)
+
+## Link to Live 
+
+https://specilaist.github.io/BootCamp-Week-1/
+
+## GitHub URL
+
+https://github.com/specilaist/BootCamp-Week-1.git
+
 1) Arrange the css so that everything flows naturally with the page:
       -- "search engine optimization" "online reputation management" and  "social media marketing" should be listed under the class content
 
